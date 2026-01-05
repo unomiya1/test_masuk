@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "@babel/register": "^7.28.3",
+    "@tailwindcss/vite": "^4.1.18",
+    "pokedex-promise-v2": "^4.2.1",
+    "tailwindcss": "^4.1.18"
+  }
+}
